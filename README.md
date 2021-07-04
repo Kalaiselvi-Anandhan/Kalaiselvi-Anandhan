@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Kalaiselvi Anandhan
+- 👀 Interested in Web Development
+- 🌱 Currently learning AWS
+- 💞️ Loves poetry, philosophy and programming
